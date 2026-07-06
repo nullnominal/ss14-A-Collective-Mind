@@ -9,6 +9,8 @@ The original people in the bodies where cast away when the double-layered DID sy
 ## Licence
 This project is under CC-BY-SA 4.0 with exceptions. See the licence file for more details.
 
+This project is also "licenced" under the NT-CC in-charecter Licence (humourus)
+
 ## Acknowledgements 
 This project is very much community written as it is written by me. I couldn't have written it if I wasn't roleplaying on ss14, and some documents are actually written by people anyways!
 
