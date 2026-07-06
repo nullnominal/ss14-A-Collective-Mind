@@ -6,6 +6,9 @@ Because of each body being part of the overlying system, they feel a massive pul
 
 The original people in the bodies where cast away when the double-layered DID system generated and have been stuck for ~500 years in a mental prison with no sense of time. 
 
+## A warning
+Some of these documents are incredibly heavy hitting and should not be read if you are in a trigger ready state. These include themes such as suicide, plural dormancy, and others.
+
 ## Licence
 This project is under CC-BY-SA 4.0 with exceptions. See the [[LICENCE.txt|licence]] file for more details.
 
@@ -15,3 +18,7 @@ This project is also "licensed" under the NT-CC in-character Licence (humorous)
 This project is very much community written as it is written by me. I couldn't have written it if I wasn't roleplaying on ss14, and some documents are actually written by people anyways!
 
 Needless to say, I'm accepting contributions.
+
+## Discord Threads
+* [A Collective Mind](https://discord.com/channels/1272545509562777621/1523664382876450917)
+* [Ping - Flashclone Series](https://discord.com/channels/1272545509562777621/1487357703331250197)
