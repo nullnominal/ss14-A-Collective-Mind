@@ -1,0 +1,82 @@
+[head=1][color=#91006e]────────────────────[/color][/head]
+[color=#c400a4]█▀█  █░░█  █▀▀▄[/color]   [color=#e39919][head=3]Research and Development[/head][/color]
+[color=#c400a4]█▄▀  █▀▄█  █░░█[/color]   [color=#e39919][bolditalic]Progress is worth the risk[/bolditalic][/color]
+[color=#c400a4]▀   ▀  ▀     ▀  ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL RND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#91006e]────────────────────[/color][/head]
+[bold][mono]Science Employment Contract[/mono][/bold]
+Document Compiler: [signature] 
+Date & Time: [datetime]
+
+As someone who is going to be working in Science, I [signature]  agree to  follow the following employment contract or be fired at a maximum of three strikes.
+
+If I am a Research Assistant or otherwise new to science, I must go and find the Research Director, an experienced scientist, or one of the rarely active NT Career Trainers before doing anything related to research.
+
+[head=2]Lathes[/head]
+• All resource-collection areas must stay above 10 glass, steel, plastic, and plasma for non anomaly or IPC healing related tasks. 
+• All item requests that are printed by a protolathe, or a circuit imprinter must have a valid item-request form as directed and stamped by the research director for non-scientists. 
+
+[head=3]Pre-Approved Requests[/head]
+• All forms of batteries, with more consideration for IPCs, Borgs, and people with translators.
+•  For a cargo technician, or the quartermaster:
+    •  A Cargo Telepad
+• For Mining and Salvage:
+   •  Advanced Resources
+   •  Diamond, and normal drills.
+   •  Mass Scanners
+   •  Material Scanners
+•  Engineering: All advanced tools
+
+
+[head=2]Research[/head]
+•  Other than the unlock order, personal projects must be put aside for departmental requests.
+•  The research director must approve of any research projects.
+
+[head=3]Unlock Order[/head]
+The following is the priority list for unlocking sciences, ordered by priority, and may be unlocked without asking the Research Director.
+
+1. Basic Xenoarchelogy
+2. Mechanical Compression
+3. Basic Anomalous Research
+4. High Capacity Batteries & Hyper Rechargers
+
+
+ 
+[head=3]Xenoarchelogy[/head]
+• Prefered over all other types of research
+• Safety is paramount. If an artifact can do something dangerous, do that node away from the station, and use proper safety gear.
+•  Anomaly creating nodes must not be activated before Basic Anomalous Research is completed.
+
+[head=3]Anomalies[/head]
+•  Anomalies must not be generated before Basic Anomalous Research is completed
+•  All Anomalies must be assigned to a vessel 
+•  Anomalies must not be generated without explicit RD approval
+•  Upon generating an anomaly, the station must be notified of its existence.
+
+[head=2]Robotics[/head]
+[head=3]Mechs[/head]
+• Mechs may only be created at request of their specific department head(s)
+
+[head=3]Cyborgs[/head]
+• The AIs shunt is the first priority when creating, or maintaining cyborgs.
+• Crew members who are gibbed are the second priority.
+• New cyborgs must not be created if the basic material count drops below 30 of each
+• Cyborg chargers are considered a basic material for cyborgs
+
+
+
+[head=3]IPCs[/head]
+• An IPC-specific medbay (or wing) must be constructed 
+• The IPC medbay must have a stock of at least 100u Oil, 1 stack of HV cables, 10 glass, 10 plasma, and a welding fuel tank.
+•  IPCs are not to be unlocked unless it is medically necessary, or they are moving  to a better battery.
+• IPCs are to be healed above any non-crew based cyborg.
+
+[head=2]Emergency Situations[/head]
+• All non-essential materials are to be given to medical, robotics, security, and engineering.
+• Security is the sole determinant of what gets researched
+• Any Security member may request any mech
+• Anyone can request any non-contraband item from the protolathe
+
+[head=2]Punishment[/head]
+1. On the first warning, there will be no fabrication, or resource acquisition.
+2. On a second warning, a mentor will be forcefully assigned.
+3. On the 3rd warning, access to the science department will be removed.

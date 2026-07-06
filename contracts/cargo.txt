@@ -1,0 +1,32 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#9e794a] █▀▀ █▀▀▄[/color] [head=3]   [color=#9e794a]CARGO DIVISION[/color][/head]
+[color=#9e794a] █░░ █░░█[/color][bolditalic]   [color=#9e794a]Moving freights and supply everyone[/color][/bolditalic]
+[color=#9e794a] ▀▀▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+      [mono][bold]Cargo Employment Contract[/bold][/mono]
+
+As someone who is, or going to be under [sign], I agree to follow this employment contract, or be fired after three strikes notwithholding.
+
+• [check] - I am a new cargo tech and if I have questions I will reach out to the quartermaster, or have an experienced cargo tech as my mentor.
+
+[head=3]Standard Operating Procedure Requirements[/head]
+Cargo techs are required to follow all applicable SoP 
+
+[head=4]Handling Orders[/head]
+• Orders not in the Pre-Approved list must be approved by both the QM, and the relevant heads of staff for orders. This always includes the department they are ordering from.
+• All orders not on the typical list will NOT be ordered using cargo funds
+• A Valid reason must be on EVERY VALID Acquisition slip, and it must be given to me so the quartermaster can validate the reason.
+• All approved invoices MUST be reviewed, and then given to the quartermaster for storage.
+• Defer to "Pre Approved Materials" in your provided guidebook for the pre approved materials 
+• A Relavent head of staff has the authority, with the QMs stamp, to add, or remove materials from the pre-approved materials list for their department. Any order from these can still be rejected if they are unreasonably expensive compared to the current cargo budget however. 
+• All orders MUST be given to their respective department within 10 minutes after they have been approved
+• Any mention of "Cargonia" will be met with immediate contract termination.
+• All BLUE SLIPS MUST Be signed by their respective departments, or their department head before it is to be given to the department in question. If they do not, QM reserves the right to ban any department from cargo delivering materials to them. All blue slips must then be given to the QM for safekeeping of Cargo's budget records.
+
+[head=4]Emergency Situations[/head]
+On Code Red, Violet, or gamma, request forms/acquisition slips are not required to order ANYTHING- All requests are to be approved, even if they are using cargo funds.
+
+[head=3] Punishments [/head]
+• One warning: You are not allowed to order anything using the cargo consoles
+• Two warnings: You will have a mentor forcefully assigned to you, and you cannot do cargo related things without them being next to you
+• Three Warnings: You get fired

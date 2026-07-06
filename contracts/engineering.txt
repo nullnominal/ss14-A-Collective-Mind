@@ -1,0 +1,68 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#e39919]█▀▀ █▀▀ █▀▀▄[/color]   [color=#e39919][head=3]STATION ENGINEERING DIVISION[/head][/color]
+[color=#e39919]▀▀█ █▀▀ █░░█[/color]   [color=#e39919][bolditalic]The pinnacle of Corporate Engineering[/bolditalic][/color]
+[color=#e39919]▀▀▀ ▀▀▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL SED OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+[bold][mono]Engineering Employment Contract[/mono][/bold]
+Document Compiler: [signature]
+Date & Time: [datetime]
+
+As someone who is going to be working in Engineering, I [signature]  agree to  follow the following employment contract or be fired at a maximum of three strikes.
+
+If I am a Technical Assistant or otherwise new to Engineering, I must go and find the Chief Engineer, an experienced engineer, or one of the rarely active NCTs before doing anything related to engineering.
+
+[head=2]Engineers[/head]
+• A non permanent power generation source must be set up before setting up a permanent engine.
+• The power network MUST be checked every 15 minutes
+• Technical Assistant related tasks such as teaching MUST be worked on
+• AFTER ALL other tasks, personal projects MAY be constructed.
+
+[head=2]Atmospheric Technitions[/head]
+• Atmospheric Technicians must set up distribution, and then disposals before moving on to any other tasks
+   • failing to do so is grounds for immediate termination.
+• Atmospheric Technicians MUST focus on atmospheric repairs before others.
+• Atmospheric Technicians SHOULD start making the Thermo Electric Generator.
+• Atmospheric Technicians SHOULD make specialized atmospheric conditions for non-human crew members.
+• Any mention of "independence" or "Atmosia" is grounds for immediate contract termination.
+• Atmospheric Status MUST be checked every 15 minutes. 
+• AFTER ALL other tasks, personal projects MAY be constructed.
+
+[head=2]Basic Power[/head]
+
+• The Tesla or Singularity MAY be started without explicit CE approval if either:
+  • There is no CE, or
+  • The CE refuses to start an engine in any reasonable time
+• The Tesla or Singularity must be started before doing any other engineering tasks
+• A PRIMARY Engine not being set up before other tasks are done are grounds for immediate dismissal.
+• Before starting the Tesla or Singularity, it must be reviewed for any design flaws by the Chief Engineer or any 3rd party Engineer.
+• The Singularity SHOULD be used IF there is an advanced engine available because it is easier to decommission. 
+• The Singularity and Tesla must be maintained every 15 minutes. 
+• On a new PRIMARY engine, the Singularity OR Tesla must be decommissioned. . 
+• During an emergency, the engine MUST be constantly secure
+
+[head=2]Repairs[/head]
+• Bridge, Evac, Arrivals, and Secure Areas must be prioritized.
+• Functionality must be given more concern than aesthetics 
+• Engineers may break into areas to provide repairs, provided that:
+    • There are no relevant staff around, or
+    • The damage is substantial enough to warrant immediate evacuation of the area.
+
+[head=2]Advanced Power[/head]
+[bold]Thermo Electric Generator[/bold]
+• The TEG Is preferred over all other advanced power sources
+• After the TEG makes an extra 150 kilowatts consistently, it is considered the primary source
+
+• The TEG may only be constructed after approval by:
+    • an Atmos Technician, or
+    • The Chief Engineer
+
+[bold]Nuclear Reactor[/bold]
+• A Nuclear Reactor must only be constructed AFTER:
+    • Approval by the Chief Engineer,
+    • The Captain, and
+    • A majority of the remaining command members
+• Engineering’s budget must stay above 10k spesos for the reactor to stay online. 
+• The Reactor must only be constructed by atmospheric technicians, and the Chief Engineer 
+• The Reactor must not be the primary engine
+• An Engineer must be stationed nearby at all times. 
+• The Reactor may be used to generate money using SMES’, and selling to cargo.

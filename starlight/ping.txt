@@ -1,0 +1,124 @@
+[logo]          [cclogo]
+-----------------------------------------------
+[head=1][bolditalic][color=2aff05]FLASHCLONE MANUAL: SERIES: "PING"[/color][/bolditalic][/head]
+-----------------------------------------------
+
+[italic]Congratulations to your station for receiving a copy of our best and brightest Worker!
+
+Nanotrasen as a contractee proudly offers Genetic Sequencing packages of employment, allowing individuals to gain a careers worth of pay after a very short inpatient procedure! (Please see nearest Genetics department to apply!)(Please have BI-6c “next of kin” forms filled out before applying!)
+
+Contracted Flashclones have been genetically customized to offer only the best working experience aboard our stations![/italic]
+
+————
+
+SERIES:
+ “Ping”
+
+SPECIES:
+Avali
+
+OBJECTIVE:
+"Ping" was created in response to how close the Beep Series is to ending. It is the goal of Ping to be a supplement, but less expensive version of beep while still maintaining quality. 
+
+NOTE: UNINTENDED FLAW:
+ As a result of the intensive neurological rework of a PING SERIES Unit's brain, it would seem that all Pings are unable to speak. All vocalizations have been replaced by the short phrase: “Ping”. 
+Other Avali within proximity to a “Ping” have claimed that they still retain the ability to access the thought nexus, though without direct corroboration this remains untestable.
+
+ROLES:
+* Captain
+* Head Of Personal
+* Internal Affairs Agent
+* Performer
+* Musition
+* Roboticist
+* Paramed
+* Engineer
+* Clown
+
+LOSS POLICY:
+When a PING unit dies, a new one will be sent if the proper authorization code for cloning or borging is not provided. The units cannot be revived or cloned without authorization codes and will result in a locked-out unit. If Cognizine or simular is administured to the PING UNITS, it will die around 5 shifts afterwords.
+
+NOTE: If a unit has been modified past retreval such as illegal implants, the contractee will be fined 200 spesos. PING UNITS cost 1200 spesos to print by default.
+
+PERSONALITY:
+The PING series has been described a caring and surportive entity that inhabits a space of child-like impulsivity while still being extremely compotent in it's job. The PING series will always protect its own body and mind before allowing anyone else to remotely come close to it. When sligted by someone, it has shown to be incredibly agressive to that person by scratching, hissing, and otherwise while not causing any actual harm to them. Though, there are times where the PING series has drawn blood when pushed too far. The PING units are also entirely aligned to their role unless unlicenced modifications have occured.
+
+[head=3]Loss Log[/head]
+1> Cryo'd in a red shift/ No Logs collected after. Unsure if Ping 1 is alive. Last words: "Ping hears loud noise in head" "Ping cant deal with it" "Ping cryoing" 
+  > Update: Recovered Ping 1.
+
+1> Rotted Corpse retrived but the brain was removed. A mailbomb killed this iteration.
+
+2 (theif)> Found with 2 illegal implants (Caustic damage, leading to death by a slime). Dated to die after evac left 
+Was located in medical
+
+3> Died to a fire that was on someone while trying to save them from ashing. Biomass recovered, albeit a bit singed.
+
+4 (HoP)> Syndicat blew up; dead before it even hit the floor
+
+5 (IAA)> Evac Shuttle Left behind; Probably still alive. Last seen on ATS
+
+6 (Cap)> Infected by [XXXXXXXX] and delievered dead body to centcom
+
+7 (5x)> Lost to the nullscar and space lag (not a real death)
+
+7 (Capt)> Teleported into electrified grill and died instantly. Later, an announcement from "Snail" said "Shouldn't have incurred my wrath captain..."
+
+8 (Engineer)> Blown up by the nuclear reactor. The CE has admited to killing Ping.
+
+9 (IAA)> Birb dexped by BSO
+
+10 (Cap)> Died to blood sucking things while carding AI; was later converted into a non NT-borg chassis but that failed because of failsafes.
+
+11 (IAA)> Failed attempt to convert into a non NT borg chassis.
+
+12 (IAA)> Died to a bio-degenerative desiese
+
+13 (Cap)> Died to syndicates defending the disk. Centcom ended up getting nuked.
+
+14 (cap)> Died to a ratking loosing.
+
+15 (IAA)> Succumed to [DATA EXPUNGED[e]]
+
+16 (Assistant)> Died to a bio-degenerative desiese
+
+17 (IAA)> Succumed to [DATA EXPUNGED[e]]
+
+18 (IAA)> Killed by Mango, Snack Pack because ping distrusted him
+
+19 (RD)>  No blood remaning. Upping the price because this was a command iteration and BSO failed to save.
+
+20 (IAA)> Biodegen
+
+21 (IAA)> Executed
+
+22 (HoP)> Birb Dexp'd
+
+[head=3]PRICE Log[/head]
+INITIAL BUDGET: $180000
+1> $1200
+2> $1400
+3> $1100
+4> $1200
+5> $1200
+6> $1400
+7> $1200
+8> $1200
+9> $1200
+10> $1200
+11> $1600
+12> $1200
+13> $1200
+14> $1200
+15> $1200
+16> $1200
+BUDGET: $160100
+17> $1100
+18> $0 (paid by DonkCo after a sucessful lawsuit)
+19> $2500
+20> $1400
+21> $5000 (freemagged)
+Budget: 160100 - $10000 donated by Lyric Kuster
+22> $28000 (BSO failed to save; Brigmedic Dexp'd the birb)
+
+[mono]Copyright 2526 "A Collective Mind"[/mono]

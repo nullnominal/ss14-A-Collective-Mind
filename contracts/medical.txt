@@ -1,0 +1,46 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#e39919]█ █ █░░█ █▀▀[/color]   [color=#e39919][head=3]HEALTH & SAFETY DIVISION[/head][/color]
+[color=#e39919]█▀█ █▀▄█ ▀▀█[/color]   [color=#e39919][bolditalic]Leave no one behind[/bolditalic][/color]
+[color=#e39919]▀ ▀ ▀  ▀ ▀▀▀[/color]   [color=#aaaaaa][italic]OFFICIAL H&S OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+[bold][mono]Medical Employment Contract[/mono][/bold]
+Document Compiler: [signature] 
+Date & Time: [datetime]
+
+As someone who is going to be working in Medical, I [signature]  agree to  follow the following employment contract or be fired at a maximum of three strikes.
+
+If I am a Medical Assistant or otherwise new to medical, I must go and find the Chief Medical Officer, an experienced doctor, or one of the rarely active NT Career Trainers before using chemicals.
+
+[head=2]General Practices[/head]
+• All chemicals must be in a locker that is access-restricted to medical personnel only
+• The chemicals must always be closed, and locked when they are not being actively used
+• Patients must be scanned, then the results must be printed, then signed by all who are treating the patient. All printed results must go to the CMO.
+• Dead Unrevivable Patients must be given to an applicable surgeon, then stored in a freezer, or an otherwise anti-rot device.
+• Using Dexalin (Plus), or Saline on a species of bird is grounds for immediate demotion to a Medical Assistant.
+• Likewise using the chemicals meant for bird species on a non bird species is grounds for immediate demotion. 
+• Letting a Unique Body Composition patent die intentionally, as interpreted by the CMO, is grounds for disciplinary punishment. 
+
+[head=2]Surgons[/head]
+• Dead unique body composition patients should have their brains removed, and then transplanted into a donor body.
+• Original bodies of borged patients are to be saved as a donor body in such a manner that no rotting happens.
+• Lost body parts are to be re-attached without question
+• Elective Surgeries must have a surgical form stamped by the CMO, and signed by the patient.
+• Command-level elective surgeries must also be stamped by Officer ‘Blue Shield.’
+• Command-level gibbings are to be the first in line for a donor body.
+
+[head=2]Chemists[/head]
+• All chemicals must be labeled with the name, effect per unit, overdose count
+• If applicable (such as patches, or pills), the chemicals must also have a dose, and the amount it heals.
+• Brigmed is a second priority in terms of chemical distribution
+• All healing chemicals must stay above 100u 
+• Chemical priority should be split up based on the number of chemists. 
+• After all basic chemicals are done, chemicals for departments like janitorial, or botany may be produced.
+
+[head=2]Parameds[/head]
+• Parameds are to attempt to bring dead patients to a safe place before attempting to treat, or revive, excluding patients Unique Body Composition
+• Parameds are to have a selection of basic chemicals on hand at all times
+
+[head=2]Punishment[/head]
+1. On the first warning, there will be no chemical usage
+2. On a second warning, a mentor will be forcefully assigned.
+3. On the 3rd warning, access to the medical department will be removed.
