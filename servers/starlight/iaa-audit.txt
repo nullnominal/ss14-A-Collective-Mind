@@ -1,0 +1,85 @@
+# structured audit report
+[head=1][color=#6a5acd]════════════════════[/color][/head]
+[mono][color=#6a5acd]██╗ █████╗  █████╗[/color][/mono] [head=3][color=#6a5acd]INTERNAL AFFAIRS AGENCY[/color][/head]
+[mono][color=#6a5acd]██║██╔══██╗██╔══██╗[/color][/mono] [bolditalic][color=#b8a9ff]Integrity Through Oversight[/color][/bolditalic]
+[mono][color=#6a5acd]██║███████║███████║[/color][/mono] [color=#aaaaaa][italic]DEPARTMENT AUDIT & INSPECTION [/italic][/color]
+[mono][color=#6a5acd]██║██╔══██║██╔══██║[/color][/mono]
+[mono][color=#6a5acd]██║██║  ██║██║  ██║[/color][/mono]
+[mono][color=#6a5acd]╚═╝╚═╝  ╚═╝╚═╝  ╚═╝[/color][/mono]
+                                  [bold]OFFICIAL AUDIT RECORD[/bold]
+[head=1][color=#6a5acd]════════════════════[/color][/head]
+[bold]Case Number[/bold]: [form]
+[bold]Inspector:[/bold] [color=#6a5acd][italic][signature][/italic][/color]
+[bold]Date & Time:[/bold] [color=#6a5acd][italic][datetime][/italic][/color]
+
+[color=gray][italic]     This document shows the state and inner workings of a department in a specific window in time. It does not reflect the state of the department during the entire shift. and is only meant to find and prevent potential accidents.
+     Contact the Head of the department listed below to gather more thorough information about the department.[/italic][/color]
+
+[head=2][color=#6a5acd]Department information[/head][/color]
+
+[bold]Department Name:[/bold] [color=#6a5acd][italic][form][/italic][/color]
+[bold]Department Head:[/bold] [color=#6a5acd][italic][form][/italic][/color]
+[bold]Inspection Time:[/bold] [color=#6a5acd][italic][datetime][/italic][/color]
+
+[head=2][color=#6a5acd]General Inspection[/head][/color]
+
+[bold]Public Desk filled:
+[color=gray]Is there a person manning the desk and their conduct?[/color][/bold]  
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold]Locker security: 
+[color=gray]Are lockers closed and locked / stray tools and clothes?[/color][/bold]  
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold]Floor cleanlines:
+[color=gray]any spills, tripping hazards, blocked doors or corridors[/color][/bold]
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold]Department state:
+[color=gray]unrepaired damage, harmful atmosphere, working lights[/color][/bold]
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold]Contraband:
+[color=gray]Any tool/weapon/machine not meant in the department or otherwise not properly secured[/color][/bold] 
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold]Behaviour:
+[color=gray]Any worrying behaviour during the department inspection[/color][/bold] 
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold]Additional Notes:
+[color=gray]Anything not described that warrants a note[/color][/bold]
+[color=#6a5acd][italic][form][/italic][/color]
+
+[bold][head=2][color=#6a5acd]Department Concerns[/color][/head][/bold]
+
+[check] [bold]Unsafe Work Environment [/bold]
+[check] [bold]Harrassment/Hostile Work Place[/bold]
+[check] [bold]Abuse Of Authority[/bold]
+[check] [bold]Incompetence/Negligence[/bold]
+[check] [bold]Other:[/bold] [form]
+
+[bold][head=2][color=#6a5acd]Overall Assessment[/color][/head][/bold]
+
+[check] [bold]Fully Compliant[bold]
+[check] [bold]Minor Deficiencies[bold]
+[check] [bold]Major Deficiencies[/bold]
+[check] [bold]Immediate Command Review Recommended[/bold]
+
+[bold]Department Rating (1-10)[/bold] : [color=#6a5acd][italic][form][/italic][/color]
+
+
+
+ ────────────────────────────────────────
+⠀                      [italic]Place for Stamps and/or Signatures[/italic]
+
+ 
+
+
+
+
+
+
+
+
+

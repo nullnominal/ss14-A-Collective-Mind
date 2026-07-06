@@ -1,0 +1,26 @@
+[head=2]CHEM PILL REFERENCE[/head]
+
+[color=#ff4040][bold]MB — Brute[/bold][/color]
+Beaker: 80 Carbon + 80 Water + 320 Bicaridine
+Pill: 7.5 Bicaridine + 7.5 Meralyne — [bold]max 2[/bold] (OD)
+Label: Red · MB [2 OD]
+
+[color=#ffd530][bold]KD — Burn[/bold][/color]
+Beaker: 80 Phosphorus + 80 Oxygen + 320 Kelotane
+Pill: 7.5 Kelotane + 7.5 Dermaline — [bold]max 2[/bold] (OD)
+Label: Yellow · KD [2 OD]
+
+[color=#7fe57f][bold]ADB — Anti-OD / Toxin[/bold][/color]
+Beaker: 80 Phosphorus + 160 Bicaridine + 240 Dylovene
+Pill: 5 Arithrazine + 5 Dylovene + 5 Bicaridine — [bold]max 3[/bold] (OD)
+Label: Light Green · ADB [3 OD] — Anti-Toxin
+
+[color=#40e0e0][bold]Imid — Eye Trauma[/bold][/color]
+Beaker: 120 Dylovene + 120 Carbon + 120 Hydrogen = 240u, x2
+Pill: 15 Imidazoline — [bold]max 2[/bold]
+Label: Cyan · Imidazoline — Eye Trauma, 1p
+
+[color=#c79fef][bold]FN+ — Blood Regen[/bold][/color]
+Beaker: 235 Iron + 235 Nutriment + 10 Dexalin Plus
+Pill: 7.34 Iron + 7.34 Nutriment + 0.31 Dex+ — [bold]max 4[/bold] (OD)
+Label: Light Purple · FN+ [4 OD]

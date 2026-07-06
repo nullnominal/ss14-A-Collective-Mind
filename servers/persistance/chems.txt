@@ -1,0 +1,31 @@
+# (Custom Chemical Recipes)
+[head=2]Threshold Custom Chemical Recipes[/head]
+
+
+[head=3]Pain Medication[/head]
+
+A single reagent that acts like the outer world's "Tylenol" but reacts to have a much stronger status.
+
+
+This drug can also suppress anxiety and other forms of mental distress but also causes some sleepiness as most Pain Medication does. To prevent ODs, the pill must be taken atleast 17 seconds apart, and it lasts 30 minutes before needing to take another.
+
+
+Wait 17 seconds before taking another dose
+
+
+[bold]Recipe:[/bold]
+
+Chemicals balanced for 10 pill batches. 
+
+• 120u Psicodine
+
+• 80u Bicardine 
+
+• 10u Chloral Hydrate (Chemical doesn't properly form otherwise) 
+
+
+[bold]ODs are:[/bold]
+
+• 4 pills: Deals Asphyxiation, Poison over time, and causes hallucinations.
+
+• 2 pills: Deals Asphyxiation, and Poison over time  

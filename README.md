@@ -7,9 +7,9 @@ Because of each body being part of the overlying system, they feel a massive pul
 The original people in the bodies where cast away when the double-layered DID system generated and have been stuck for ~500 years in a mental prison with no sense of time. 
 
 ## Licence
-This project is under CC-BY-SA 4.0 with exceptions. See the licence file for more details.
+This project is under CC-BY-SA 4.0 with exceptions. See the [[LICENCE.txt|licence]] file for more details.
 
-This project is also "licenced" under the NT-CC in-charecter Licence (humourus)
+This project is also "licensed" under the NT-CC in-character Licence (humorous)
 
 ## Acknowledgements 
 This project is very much community written as it is written by me. I couldn't have written it if I wasn't roleplaying on ss14, and some documents are actually written by people anyways!
