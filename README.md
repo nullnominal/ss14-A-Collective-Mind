@@ -15,3 +15,7 @@ This project is also "licenced" under the NT-CC in-charecter Licence (humourus)
 This project is very much community written as it is written by me. I couldn't have written it if I wasn't roleplaying on ss14, and some documents are actually written by people anyways!
 
 Needless to say, I'm accepting contributions.
+
+## Discord Threads
+* [A Collective Mind](https://discord.com/channels/1272545509562777621/1523664382876450917)
+* [Ping - Flashclone Series](https://discord.com/channels/1272545509562777621/1487357703331250197)
